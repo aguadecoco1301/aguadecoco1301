@@ -12,13 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# AguaDeCoco
+<div align="center">
+  <img src="https://github.com/aguadecoco1301/aguadecoco1301/blob/main/pic.png?" width="200"/>
+<h1 align="center"><b>AguaDeCoco</b></h1>
 
 ### I'm a discord.js bot developer.
 If you want to contact me, you can find me in discord: 
 ### AguaDeCoco#1301
-
-# My projects:
+</div>
+<hr>
+<h1 align="center">My projects:</h1>
 
 1. A discord.js command & event handler: https://github.com/aguadecoco1301/discordjs-pro-command-handler
 2. A npm module to easy manage the time (Parse seconds to ms, for example): https://npmjs.com/package/time-nodejs
