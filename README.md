@@ -25,7 +25,7 @@
         <img align="center" src="https://top.gg/_next/image?url=https%3A%2F%2Fimages.discordapp.net%2Favatars%2F813152173818904597%2F421fc860d06b8daaf52171acea5de9fb.png%3Fsize%3D128&w=128&q=75" width="75"/>
       </a>
       <a href="https://top.gg/bot/813152173818904597">
-        <img align="center" src="https://www.ecured.cu/images/6/6c/America_Latina.png" width="75"/>
+        <img align="center" src="latin.png" width="75"/>
       </a>
     </td>
   </tr>
