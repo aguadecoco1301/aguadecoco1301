@@ -5,6 +5,8 @@
 <h3 align="center">If you want to contact me, <a href="https://discord.gg/AmUM4EVs">join to my discord</a></h3>
 <hr>
 <p align="center" style="padding-top: 10px">
+  <code><b>Donations</b></code><br><br>
+  <a href='https://cafecito.app/aguadecoco1301' rel='noopener' target='_blank'><img srcset='https://cdn.cafecito.app/imgs/buttons/button_1.png 1x, https://cdn.cafecito.app/imgs/buttons/button_1_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_1_3.75x.png 3.75x' src='https://cdn.cafecito.app/imgs/buttons/button_1.png' alt='Donations' /></a><br><br>
   <code><b>My proyects</b></code><br><br>
   <a href="https://github.com/aguadecoco1301/time-nodejs">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aguadecoco1301&repo=time-nodejs">
