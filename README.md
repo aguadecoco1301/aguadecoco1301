@@ -2,6 +2,6 @@
 <h1 align="center">AguaDeCoco</h1>
 <p align="center" align-items="center">
 <p align="center">I'm a JavaScript programmer, and Game Developer</p>
-<h3 align="center">If you want to contact me, <a href="mailto://adrielalejoulloa@gmail.com">send me an Email</a></h3>
+<h3 align="center">If you want to contact me, <a href="mailto:adrielalejoulloa@gmail.com">send me an Email</a></h3>
 <hr>
 <p align="center" style="padding-top: 10px">
