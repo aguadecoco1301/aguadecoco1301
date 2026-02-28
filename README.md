@@ -5,3 +5,12 @@
 <h3 align="center">If you want to contact me, <a href="mailto:adrielalejoulloa@gmail.com">send me an Email</a></h3>
 <hr>
 <p align="center" style="padding-top: 10px">
+  <code><b>My proyects</b></code><br><br>
+  <a href="https://github.com/aguadecoco1301/time-nodejs">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aguadecoco1301&repo=time-nodejs">
+  </a>
+  <a href="https://github.com/aguadecoco1301/Luma">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aguadecoco1301&repo=Luma">
+  </a>
+  <br><br>
+</p>
