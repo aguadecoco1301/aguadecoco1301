@@ -6,11 +6,11 @@
 <hr>
 <p align="center" style="padding-top: 10px">
   <code><b>My proyects</b></code><br><br>
-  <a href="https://github.com/aguadecoco1301/time-nodejs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aguadecoco1301&repo=time-nodejs">
+  <a href="https://github.com/aguadecoco1301/ winebox">
+    <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=aguadecoco1301&repo=winebox">
   </a>
   <a href="https://github.com/aguadecoco1301/Luma">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aguadecoco1301&repo=Luma">
+    <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=aguadecoco1301&repo=Luma">
   </a>
   <br><br>
 </p>
