@@ -7,10 +7,10 @@
 <p align="center" style="padding-top: 10px">
   <code><b>My proyects</b></code><br><br>
   <a href="https://github.com/aguadecoco1301/winebox">
-    <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=aguadecoco1301&repo=winebox">
+    <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=aguadecoco1301&repo=winebox&theme=dark">
   </a>
   <a href="https://github.com/aguadecoco1301/Luma">
-    <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=aguadecoco1301&repo=Luma">
+    <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=aguadecoco1301&repo=Luma&theme=dark">
   </a>
   <br><br>
 </p>
